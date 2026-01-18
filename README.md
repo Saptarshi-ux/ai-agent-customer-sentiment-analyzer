@@ -57,7 +57,8 @@ All interactions are logged in **Google Sheets** across dedicated tabs (Positive
 | **Google Sheets API** | Structured data storage and logging |
 | **No-code / Low-code** | Rapid deployment and scalability |
 
----
+<img width="1537" height="567" alt="customer_sentiment_analyzer" src="https://github.com/user-attachments/assets/422df43d-d711-4292-b1d6-75acf37af372" />
+
 
 ## Key Features
 *  **Real-time Sentiment Classification:** No manual reading required.
@@ -70,6 +71,6 @@ All interactions are logged in **Google Sheets** across dedicated tabs (Positive
 
 Adaptability: This logic can easily be ported to Slack, Discord, or WhatsApp Business for different notification styles.
 
-Author
-Saptarshi Bandyopadhyay Data Analyst | AI and Automation Enthusiast
+### Author
+###### Saptarshi Bandyopadhyay Data Analyst | AI and Automation Enthusiast
 ---
