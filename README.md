@@ -1,5 +1,5 @@
 # End to End AI Agent Customer Sentiment Automation
-### Built with n8n + Google Gemini AI
+### Built with n8n + Google Gemini API key
 
 
 ##  Project Overview
