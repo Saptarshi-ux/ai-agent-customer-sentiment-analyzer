@@ -71,6 +71,10 @@ All interactions are logged in **Google Sheets** across dedicated tabs (Positive
 
 Adaptability: This logic can easily be ported to Slack, Discord, or WhatsApp Business for different notification styles.
 
+##The detailed description of the automated workflow is as follows:
+
+
+
 ### Author
 ###### Saptarshi Bandyopadhyay Data Analyst | AI and Automation Enthusiast
 ---
