@@ -71,8 +71,8 @@ All interactions are logged in **Google Sheets** across dedicated tabs (Positive
 
 Adaptability: This logic can easily be ported to Slack, Discord, or WhatsApp Business for different notification styles.
 
-### The detailed description of the automated workflow is recorded, and you can seeit  by clicking the file:
-* Customer_sentiment_analyzer_recording (It is around 17MB so I think you need to download to see the recording)
+### The detailed description of the automated workflow is recorded, and you can see it by clicking this video:
+* my youtube video link: https://youtu.be/tmLHSoYK5Qs
 
 
 
